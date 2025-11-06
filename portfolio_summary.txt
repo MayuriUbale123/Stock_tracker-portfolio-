@@ -1,0 +1,7 @@
+Stock Portfolio Summary
+========================
+Stock     Qty     Price     Value     
+AAPL      80      180       14400     
+TSLA      90      250       22500     
+
+Total Investment Value: 36900
